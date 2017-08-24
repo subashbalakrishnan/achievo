@@ -1,0 +1,55 @@
+<table cellspacing="5"><tr>
+		<td width="50"><b>Sl No.</b></td><td width='100'><b>Date</b></td><td width='100'><b>Day</b></td><td width='200'><b>Holiday Name</b></td>
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+		
+		<td>1</td><td>26-Jan-2012</td><td>Thursday</td><td>REPUBLIC DAY</td>
+	
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+
+		<td>2</td><td>23-Mar-2012</td><td>Friday</td><td>CHANDRAMANA UGADI</td>
+	
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>3</td><td>06-Apr-2012</td><td>Friday</td><td>GOOD FRIDAY</td>
+	
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>4</td><td>01-May-2012</td><td>Tuesday</td><td>MAY DAY</td>
+
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>5</td><td>15-Aug-2012</td><td>Wednesday</td><td>INDEPENDENCE DAY</td>
+	
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>6</td><td>19-Sep-2012</td><td>Wednesday</td><td>GANESHA CHATHURTHI</td>
+	
+	</tr>
+	
+	<tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+			<td>7</td><td>02-Oct-2012</td><td>Tuesday</td><td>GANDHI JAYANTHI</td>
+		
+	</tr>
+	
+	<tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+
+		<td>8</td><td>23-Oct-2012</td><td>Tuesday</td><td>AYUDHA POOJA</td>
+	
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>9</td><td>01-Nov-2012</td><td>Thursday</td><td>KANNADA RAJYOTHSAVA</td>
+	
+	</tr>
+	<tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+		
+		        <td>10</td><td>12-Nov-2012</td><td>Monday</td><td>DEEPAVALI</td>
+	
+	</tr>
+	
+	<tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>11</td><td>25-Dec-2012</td><td>Tuesday</td><td>CHRISTMAS</td>
+	
+	</tr>
+</table>

@@ -1,0 +1,52 @@
+<table cellspacing="5"><tr>
+		<td width="50"><b>Sl No.</b></td><td width='100'><b>Date</b></td><td width='100'><b>Day</b></td><td width='200'><b>Holiday Name</b></td>
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+		
+		<td>1</td><td>14-Jan-2009</td><td>Wednesday</td><td>Makara Sankranthi</td>
+	
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+
+		<td>2</td><td>26-Jan-2009</td><td>Monday</td><td>Republic Day</td>
+	
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>3</td><td>27-Mar-2009</td><td>Friday</td><td>Ugadi</td>
+	
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>4</td><td>10-Apr-2009</td><td>Friday</td><td>Good Friday</td>
+
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>5</td><td>01-May-2009</td><td>Friday</td><td>May Day</td>
+	
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>6</td><td>15-Aug-2009</td><td>Saturday</td><td>Independence Day</td>
+	
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+
+		<td>7</td><td>23-Aug-2009</td><td>Sunday</td><td>Ganesh Chathurthi</td>
+	
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>8</td><td>28-Sep-2009</td><td>Monday</td><td>vijayadashami</td>
+	
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>9</td><td>02-Oct-2009</td><td>Friday</td><td>Gandhi Jayanthi</td>
+
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>10</td><td>19-Oct-2009</td><td>Monday</td><td>Deepavali</td>
+	
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>11</td><td>01-Nov-2009</td><td>Sunday</td><td>Kannada Rajyothsava</td>
+	
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+
+		<td>12</td><td>25-Dec-2009</td><td>Friday</td><td>Christmas</td>
+	
+	</tr>
+</table>

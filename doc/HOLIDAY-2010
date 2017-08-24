@@ -1,0 +1,83 @@
+<table cellspacing="5"><tr>
+		<td width="50"><b>Sl No.</b></td><td width='100'><b>Date</b></td><td width='100'><b>Day</b></td><td width='200'><b>Holiday Name</b></td>
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+		
+		<td>1</td><td>01-Jan-2010</td><td>Friday</td><td>New Year </td>
+	
+	</tr><tr  onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+
+		<td>2</td><td>14-Jan-2010</td><td>Thursday</td><td>Makara Sankranthi </td>
+	
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>3</td><td>26-Jan-2010</td><td>Tuesday</td><td>Republic Day </td>
+	
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>4</td><td>12-Feb-2010</td><td>Friday</td><td>Maha Shivrathri</td>
+
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>5</td><td>16-Mar-2010</td><td>Tuesday</td><td>Ugadi</td>
+	
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>6</td><td>02-Apr-2010</td><td>Friday</td><td>Good Friday</td>
+	
+	</tr>
+	
+	<tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+			<td>7</td><td>14-Apr-2010</td><td>Wednesday</td><td>Ambedkar Jayanthi</td>
+		
+	</tr>
+	
+	<tr style="color: blue" onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+
+		<td>8</td><td>01-May-2010</td><td>Saturday</td><td>May Day</td>
+	
+	</tr><tr style="color: blue" onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>9</td><td>15-Aug-2010</td><td>Sunday</td><td>Independence Day</td>
+	
+	</tr>
+	<tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+		
+		        <td>10</td><td>10-Sep-2010</td><td>Friday</td><td>Ramzan/Idu'l Fitr</td>
+	
+	</tr>
+	
+	<tr style="color: blue" onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>11</td><td>11-Sep-2010</td><td>Saturday</td><td>Ganesh Chaturthi</td>
+
+	</tr><tr style="color: blue" onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>12</td><td>02-Oct-2010</td><td>Saturday</td><td>Gandhi Jayanti 
+</td>
+	
+	</tr><tr style="color: blue" onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+	        <td>13</td><td>16-Oct-2010</td><td>Saturday</td><td>Ayudha Pooja</td>
+	
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+
+		<td>14</td><td>01-Nov-2010</td><td>Monday</td><td>Kannada Rajyothsava
+</td>
+	
+	</tr>
+	</tr><tr onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+			<td>15</td><td>05-Nov-2010</td><td>Friday
+</td><td>Diwali
+	</td>
+		
+	</tr>
+	</tr><tr style="color: blue" onmouseover='this.bgColor="#CCCCCC"' onmouseout='this.bgColor=""'>
+	
+			<td>16</td><td>25-Dec-2010</td><td>Saturday</td><td>Christmas
+
+	</td>
+		
+	</tr>
+</table>

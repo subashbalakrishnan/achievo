@@ -1,0 +1,717 @@
+    <div data-id="1828" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1829" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					On many occasions, physicists, other scientists, and engineers need to make approximations or ?uesstimates?for a particular quantity.
+			</div>
+	</div>
+	<div data-id="1830" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					What is the distance to a certain destination?
+			</div>
+	</div>
+	<div data-id="1831" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					What is the approximate density of a given item?
+			</div>
+	</div>
+	<div data-id="1832" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					About how large a current will there be in a circuit?
+			</div>
+	</div>
+	<div data-id="1833" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					Many approximate numbers are based on formulae in which the input quantities are known only to a limited accuracy.
+			</div>
+	</div>
+	<div data-id="1834" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					As you develop problem-solving skills (that can be applied to a variety of fields through a study of physics), you will also develop skills at approximating.
+			</div>
+	</div>
+	<div data-id="1835" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					You will develop these skills through thinking more quantitatively, and by being willing to take risks.
+			</div>
+	</div>
+	<div data-id="1836" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					As with any endeavor, experience helps, as well as familiarity with units.
+			</div>
+	</div>
+	<div data-id="1837" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					These approximations allow us to rule out certain scenarios or unrealistic numbers.
+			</div>
+	</div>
+	<div data-id="1838" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					Approximations also allow us to challenge others and guide us in our approaches to our scientific world.
+			</div>
+	</div>
+	<div data-id="1839" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					Let us do two examples to illustrate this concept.
+			</div>
+	</div>
+	</div>
+		<div data-id="1840" data-name="" data-cont-role="section" class="container section" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1841" data-name="" data-cont-role="title" class="container title" style="">
+			<div class="content" contenteditable="false">
+					Approximate the Height of a Building
+			</div>
+	</div>
+	<div data-id="1842" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1843" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					Can you approximate the height of one of the buildings on your campus, or in your neighborhood?
+			</div>
+	</div>
+	<div data-id="1844" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					Let us make an approximation based upon the height of a person.
+			</div>
+	</div>
+	<div data-id="1845" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					In this example, we will calculate the height of a 39-story building.
+			</div>
+	</div>
+	</div>
+	<div data-id="1846" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					Strategy
+			</div>
+	</div>
+	<div data-id="1847" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1848" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					Think about the average height of an adult male.
+			</div>
+	</div>
+	<div data-id="1849" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					We can approximate the height of the building by scaling up from the height of a person.
+			</div>
+	</div>
+	</div>
+	<div data-id="1850" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					Solution
+			</div>
+	</div>
+	<div data-id="1851" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1852" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					Based on information in the example, we know there are 39 stories in the building.
+			</div>
+	</div>
+	<div data-id="1853" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					If we use the fact that the height of one story is approximately equal to about the length of two adult humans (each human is about 2-m tall), then we can estimate the total height of the building to be
+			</div>
+	</div>
+	</div>
+	<div data-id="1854" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					Discussion
+			</div>
+	</div>
+	<div data-id="1855" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1856" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					You can use known quantities to determine an approximate measurement of unknown quantities.
+			</div>
+	</div>
+	<div data-id="1857" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					If your hand measures 10 cm across, how many hand lengths equal the width of your desk?
+			</div>
+	</div>
+	<div data-id="1858" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					What other measurements can you approximate besides length?
+			</div>
+	</div>
+	</div>
+	</div>
+	<div data-id="1859" data-name="" data-cont-role="section" class="container section" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1860" data-name="" data-cont-role="title" class="container title" style="">
+			<div class="content" contenteditable="false">
+					Approximating Vast Numbers: a Trillion Dollars
+			</div>
+	</div>
+	<div data-id="1861" data-name="" data-cont-role="figure" class="container figure" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1862" data-name="" data-cont-role="title" class="container title" style="">
+			<div class="content" contenteditable="false">
+					A bank stack contains one-hundred $100 bills, and is worth $10,000. How many bank stacks make up a trillion dollars? (credit: Andrew Magill)
+			</div>
+	</div>
+
+	<img src="./Textbook_files/Figure_01_04_01.jpg">
+	</div>
+	<div data-id="1864" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1865" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					The U.
+			</div>
+	</div>
+	<div data-id="1866" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					S.
+			</div>
+	</div>
+	<div data-id="1867" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					federal deficit in the 2008 fiscal year was a little greater than $10 trillion.
+			</div>
+	</div>
+	<div data-id="1868" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					Most of us do not have any concept of how much even one trillion actually is.
+			</div>
+	</div>
+	<div data-id="1869" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					Suppose that you were given a trillion dollars in $100 bills.
+			</div>
+	</div>
+	<div data-id="1870" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					If you made 100-bill stacks and used them to evenly cover a football field (between the end zones), make an approximation of how high the money pile would become.
+			</div>
+	</div>
+	<div data-id="1871" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					(We will use feet/inches rather than meters here because football fields are measured in yards.) One of your friends says 3 in.
+			</div>
+	</div>
+	<div data-id="1872" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					, while another says 10 ft.
+			</div>
+	</div>
+	<div data-id="1873" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					What do you think?
+			</div>
+	</div>
+	</div>
+	<div data-id="1874" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					Strategy
+			</div>
+	</div>
+	<div data-id="1875" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1876" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					When you imagine the situation, you probably envision thousands of small stacks of 100 wrapped $100 bills, such as you might see in movies or at a bank.
+			</div>
+	</div>
+	<div data-id="1877" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					Since this is an easy-to-approximate quantity, let us start there.
+			</div>
+	</div>
+	<div data-id="1878" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					We can find the volume of a stack of 100 bills, find out how many stacks make up one trillion dollars, and then set this volume equal to the area of the football field multiplied by the unknown height.
+			</div>
+	</div>
+	</div>
+	<div data-id="1879" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					Solution
+			</div>
+	</div>
+	<div data-id="1880" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1881" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					(1) Calculate the volume of a stack of 100 bills.
+			</div>
+	</div>
+	<div data-id="1882" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					The dimensions of a single bill are approximately 3 in.
+			</div>
+	</div>
+	<div data-id="1883" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					by 6 in.
+			</div>
+	</div>
+	<div data-id="1884" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					A stack of 100 of these is about 0.5 in.
+			</div>
+	</div>
+	<div data-id="1885" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					thick.
+			</div>
+	</div>
+	<div data-id="1886" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					So the total volume of a stack of 100 bills is:
+			</div>
+	</div>
+	</div>
+	<div data-id="1887" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1888" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					(2) Calculate the number of stacks.
+			</div>
+	</div>
+	<div data-id="1889" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					Note that a trillion dollars is equal to $1?012, size 12{$1 times "10" rSup { size 8{"12"} }
+			</div>
+
+	<inlineequation><math xmlns:mml="urn:x-prefix:mml"><semantics><mrow><mrow><mrow><mi>$</mi><mrow><mn>1</mn><mo stretchy="false">?/mo><msup><mtext>10</mtext><mrow><mtext>12</mtext></mrow></msup></mrow></mrow></mrow><mo>,</mo></mrow><annotation encoding="StarMath 5.0"> size 12{$1 times "10" rSup { size 8{"12"} } } {}</annotation></semantics></math></inlineequation>
+
+	<inlineequation><math xmlns:mml="urn:x-prefix:mml"><semantics><mrow><mrow><mrow><mi>$</mi><mtext>100</mtext></mrow></mrow><mrow></mrow></mrow><annotation encoding="StarMath 5.0"> size 12{$"100"} {}</annotation></semantics></math></inlineequation>
+
+	<inlineequation><math xmlns:mml="urn:x-prefix:mml"><semantics><mrow><mrow><mrow><mi>$</mi><mtext>10</mtext><mi>,</mi><mtext>000</mtext><mi>,</mi></mrow></mrow><mrow></mrow></mrow><annotation encoding="StarMath 5.0"> size 12{$"10","000",} {}</annotation></semantics></math></inlineequation>
+
+	<inlineequation><math xmlns:mml="urn:x-prefix:mml"><semantics><mrow><mrow><mrow><mi>$</mi><mrow><mn>1</mn><mo stretchy="false">?/mo><msup><mtext>10</mtext><mrow><mn>4</mn></mrow></msup></mrow></mrow></mrow><mrow></mrow></mrow><annotation encoding="StarMath 5.0"> size 12{$1 times "10" rSup { size 8{4} } } {}</annotation></semantics></math></inlineequation>
+	</div>
+	<div data-id="1894" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					The number of stacks you will have is:
+			</div>
+	</div>
+	</div>
+	<div data-id="1895" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1896" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					(3) Calculate the area of a football field in square inches.
+			</div>
+	</div>
+	<div data-id="1897" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					The area of a football field is 100 yd?0 yd, which gives 5,000 yd2. size 12{5,"000 yd" rSup { size 8{2} } } {} Because we are wo
+			</div>
+
+	<inlineequation><math xmlns:mml="urn:x-prefix:mml"><semantics><mrow><mrow><mrow><mrow><mtext>100 yd</mtext><mo stretchy="false">?/mo></mrow><mtext>50 yd,</mtext></mrow></mrow><mrow></mrow></mrow></semantics></math></inlineequation>
+
+	<inlineequation><math xmlns:mml="urn:x-prefix:mml"><semantics><mrow><mrow><mrow><mn>5,</mn><msup><mtext>000 yd</mtext><mrow><mn>2</mn></mrow></msup></mrow></mrow><mo>.</mo></mrow><annotation encoding="StarMath 5.0"> size 12{5,"000 yd" rSup { size 8{2} } } {}</annotation></semantics></math></inlineequation>
+	</div>
+	</div>
+	<div data-id="1900" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1901" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					This conversion gives us 6?06in.2 size 12{6 times "
+			</div>
+
+	<inlineequation><math xmlns:mml="urn:x-prefix:mml"><semantics><mrow><mrow><mrow><mrow><mn>6</mn><mo stretchy="false">?/mo><msup><mtext>10</mtext><mrow><mn>6</mn></mrow></msup></mrow><mspace width="0.25em"></mspace><mtext>in</mtext><msup><mtext>.</mtext><mrow><mn>2</mn></mrow></msup></mrow></mrow><mrow></mrow></mrow><annotation encoding="StarMath 5.0"> size 12{6 times "10" rSup { size 8{6} } `"in" "."  rSup { size 8{2} } } {}</annotation></semantics></math></inlineequation>
+	</div>
+	<div data-id="1903" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					(Note that we are using only one significant figure in these calculations.)
+			</div>
+	</div>
+	</div>
+	<div data-id="1904" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1905" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					(4) Calculate the total volume of the bills.
+			</div>
+	</div>
+	<div data-id="1906" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					The volume of all the $100 size 12{$"1
+			</div>
+
+	<inlineequation><math xmlns:mml="urn:x-prefix:mml"><semantics><mrow><mrow><mrow><mi>$</mi><mtext>100</mtext></mrow></mrow><mrow></mrow></mrow><annotation encoding="StarMath 5.0"> size 12{$"100"} {}</annotation></semantics></math></inlineequation>
+
+	<inlineequation><math xmlns:mml="urn:x-prefix:mml"><semantics><mrow><mrow><mrow><mn>9</mn><mspace width="0.25em"></mspace><mtext>in</mtext><mrow><mrow><msup><mtext>.</mtext><mrow><mn>3</mn></mrow></msup><mo stretchy="false">/</mo><mtext>stack</mtext></mrow><mo stretchy="false">?/mo><msup><mtext>10</mtext><mrow><mn>8</mn></mrow></msup></mrow><mrow><mtext>&nbsp;stacks</mtext><mo stretchy="false">=</mo><mrow><mn>9</mn><mo stretchy="false">?/mo><msup><mtext>10</mtext><mrow><mn>8</mn></mrow></msup></mrow></mrow><mspace width="0.25em"></mspace><mtext>in</mtext><msup><mtext>.</mtext><mrow><mn>3</mn></mrow></msup></mrow></mrow><mo>.</mo></mrow><annotation encoding="StarMath 5.0"> size 12{9" in" "."  rSup { size 8{3} } /"stack" times "10" rSup { size 8{8} } "stacks"=9 times "10" rSup { size 8{8} } " in" "."  rSup { size 8{3} } } {}</annotation></semantics></math></inlineequation>
+	</div>
+	</div>
+	<div data-id="1909" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1910" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					(5) Calculate the height.
+			</div>
+	</div>
+	<div data-id="1911" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					To determine the height of the bills, use the equation:
+			</div>
+	</div>
+	</div>
+	<div data-id="1912" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1913" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					The height of the money will be about 100 in.
+			</div>
+	</div>
+	<div data-id="1914" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					high.
+			</div>
+	</div>
+	<div data-id="1915" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					Converting this value to feet gives
+			</div>
+	</div>
+	</div>
+	<div data-id="1916" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					Discussion
+			</div>
+	</div>
+	<div data-id="1917" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1918" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					The final approximate value is much higher than the early estimate of 3 in.
+			</div>
+	</div>
+	<div data-id="1919" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					, but the other early estimate of 10 ft (120 in.) was roughly correct.
+			</div>
+	</div>
+	<div data-id="1920" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					How did the approximation measure up to your first guess?
+			</div>
+	</div>
+	<div data-id="1921" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					What can this exercise tell you in terms of rough ?uesstimates?versus carefully calculated approximations?
+			</div>
+	</div>
+	</div>
+	<div data-id="1922" data-name="" data-cont-role="qandaset" class="container qandaset" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1923" data-name="" data-cont-role="title" class="container title" style="">
+			<div class="content" contenteditable="false">
+					Check Your Understanding
+			</div>
+	</div>
+	<div data-id="1924" data-name="" data-cont-role="qandaentry" class="container qandaentry" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1925" data-name="" data-cont-role="question" class="container question" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1926" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1927" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					Using mental math and your understanding of fundamental units, approximate the area of a regulation basketball court.
+			</div>
+	</div>
+	<div data-id="1928" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					Describe the process you used to arrive at your final approximation.
+			</div>
+	</div>
+	</div>
+	</div>
+	<div data-id="1929" data-name="" data-cont-role="answer" class="container answer" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1930" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1931" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					An average male is about two meters tall.
+			</div>
+	</div>
+	<div data-id="1932" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					It would take approximately 15 men laid out end to end to cover the length, and about 7 to cover the width.
+			</div>
+	</div>
+	<div data-id="1933" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					That gives an approximate area of 4
+			</div>
+
+	<inlineequation><math xmlns:mml="urn:x-prefix:mml"><semantics><mrow><mrow><mrow><mtext>420</mtext><msup><mtext>&nbsp;m</mtext><mrow><mn>2</mn></mrow></msup></mrow></mrow><mrow></mrow></mrow><annotation encoding="StarMath 5.0"> size 12{"420"" m" rSup { size 8{2} } } {}</annotation></semantics></math></inlineequation>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div data-id="1935" data-name="" data-cont-role="section" class="container section" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1936" data-name="" data-cont-role="title" class="container title" style="">
+			<div class="content" contenteditable="false">
+					Summary
+			</div>
+	</div>
+	<div data-id="1937" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1938" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					Scientists often approximate the values of quantities to perform calculations and analyze systems.
+			</div>
+	</div>
+	</div>
+	</div>
+	<div data-id="1939" data-name="" data-cont-role="section" class="container section" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1940" data-name="" data-cont-role="title" class="container title" style="">
+			<div class="content" contenteditable="false">
+					Problems &amp; Exercises
+			</div>
+	</div>
+	<div data-id="1941" data-name="" data-cont-role="qandaset" class="container qandaset" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1942" data-name="" data-cont-role="qandaentry" class="container qandaentry" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1943" data-name="" data-cont-role="question" class="container question" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1944" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1945" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					How many heartbeats are there in a lifetime?
+			</div>
+	</div>
+	</div>
+	</div>
+	<div data-id="1946" data-name="" data-cont-role="answer" class="container answer" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1947" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1948" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					Sample answer: 2?09 size 
+			</div>
+
+	<inlineequation><math xmlns:mml="urn:x-prefix:mml"><semantics><mrow><mrow><mrow><mn>2</mn><mo stretchy="false">?/mo><msup><mtext>10</mtext><mrow><mn>9</mn></mrow></msup></mrow></mrow><mrow></mrow></mrow><annotation encoding="StarMath 5.0"> size 12{2 times "10" rSup { size 8{9} } } {}</annotation></semantics></math></inlineequation>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div data-id="1950" data-name="" data-cont-role="qandaentry" class="container qandaentry" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1951" data-name="" data-cont-role="question" class="container question" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1952" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1953" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					A generation is about one-third of a lifetime.
+			</div>
+	</div>
+	<div data-id="1954" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					Approximately how many generations have passed since the year 0 AD?
+			</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div data-id="1955" data-name="" data-cont-role="figure" class="container figure" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1956" data-name="" data-cont-role="title" class="container title" style="">
+			<div class="content" contenteditable="false">
+					This color-enhanced photo shows Salmonella typhimurium (red) attacking human cells. These bacteria are commonly known for causing foodborne illness. Can you estimate the number of atoms in each bacterium? (credit: Rocky Mountain Laboratories, NIAID, NIH)
+			</div>
+	</div>
+
+	<img src="./Textbook_files/Figure_01_04_02.jpg">
+	</div>
+	<div data-id="1958" data-name="" data-cont-role="qandaset" class="container qandaset" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1959" data-name="" data-cont-role="qandaentry" class="container qandaentry" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1960" data-name="" data-cont-role="question" class="container question" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1961" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1962" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					Approximately how many atoms thick is a cell membrane, assuming all atoms there average about twice the size of a hydrogen atom?
+			</div>
+	</div>
+	</div>
+	</div>
+	<div data-id="1963" data-name="" data-cont-role="answer" class="container answer" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1964" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1965" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					Sample answer: 50 atoms
+			</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div data-id="1966" data-name="" data-cont-role="qandaentry" class="container qandaentry" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1967" data-name="" data-cont-role="question" class="container question" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1968" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1969" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					(a) What fraction of Earth? diameter is the greatest ocean depth?
+			</div>
+	</div>
+	<div data-id="1970" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					(b) The greatest mountain height?
+			</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div data-id="1971" data-name="" data-cont-role="glossary" class="container glossary" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1972" data-name="" data-cont-role="glossentry" class="container glossentry" style="">
+			<div class="content" contenteditable="false">
+					approximation
+			</div>
+	<div data-id="1973" data-name="" data-cont-role="glossdef" class="container glossdef" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1974" data-name="" data-cont-role="para" class="container para" style="">
+			<div class="content" contenteditable="false">
+					
+			</div>
+	<div data-id="1975" data-name="" data-cont-role="phrase" class="container phrase" style="">
+			<div class="content" contenteditable="false">
+					an estimated value based on prior experience and reasoning
+			</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	
+<script>
+$(document).ready(function() {
+  $("#ajaxResult > .section > .title").find(' > div').before('<div style="width:25px;float:left;padding-right:4px;"><img src="./Textbook_files/expand.png"></div>');
+  $("#ajaxResult > .section > .title").siblings('div').hide();
+});
+$("#ajaxResult .section > .title").click(function() {    
+   var src = ($(this).find('img:first-child').attr('src') === './Textbook_files/expand.png') ? './Textbook_files/collapse.png' : './Textbook_files/expand.png';
+   $(this).find('img:first-child').attr('src', src);
+   $(this).siblings('div').toggle();
+
+});
+</script>
+	

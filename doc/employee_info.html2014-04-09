@@ -1,0 +1,905 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Timesheet Employee Records</title>
+<style>
+.s0 { text-align:center;vertical-align:bottom;font-family:Lucida,Tahoma,Trebuchet MS,Arial,Verdana;font-size:12px;color:#000000;font-weight:bold;background-color:#C0C0C0; }
+.s1 { text-align:left;vertical-align:bottom;font-family:Lucida,Tahoma,Trebuchet MS,Arial,Verdana;font-size:12px;color:#000000; }
+.s2 { text-align:left;vertical-align:bottom;font-family:Lucida,Tahoma,Trebuchet MS,Arial,Verdana;font-size:12px;color:#000000;background-color:#FFFFFF; }
+.b0 { border-top:1px solid #000000;border-left:1px solid #000000;border-bottom:1px solid #000000;border-right:1px solid #000000; }
+.b1 { border-top:1px solid #000000;border-bottom:1px solid #000000;border-right:1px solid #000000; }
+.b2 { border-left:1px solid #000000;border-bottom:1px solid #000000;border-right:1px solid #000000; }
+.b3 { border-bottom:1px solid #000000;border-right:1px solid #000000; }
+</style>
+</head>
+<body bgcolor="#FFFFFF">
+<table width="2350" cols="11" border="0" cellpadding="0" cellspacing="0">
+<tr height="21">
+<td width="171" class="s0 b0">Name&nbsp;</td>
+<td width="108" class="s0 b1"><font style="font-family:Lucida,Tahoma,Trebuchet MS,Arial,Verdana;font-size:12px;"><b>Official&nbsp;</b></font><font style="font-family:Lucida,Tahoma,Trebuchet MS,Arial,Verdana;;font-size:12px;"><b>D.O.B.</b></font></td>
+<td width="274" class="s0 b1">Education</td>
+<td width="110" class="s0 b1">Date of Joining</td>
+<td width="572" class="s0 b1">Technical Skills</td>
+<td width="313" class="s0 b1">Certification</td>
+<td width="220" class="s0 b1">IQSS E-mail ID</td>
+<td width="93" class="s0 b1">Blood Group</td>
+<td width="105" class="s0 b1">Marital Status</td>
+<td width="193" class="s0 b1">Wedding Anniversary Date</td>
+<td width="191" class="s0 b1">Mobile</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Akashdeep H K</td>
+<td width="98" class="s1 b3">15-Jan-89</td>
+<td width="274" class="s1 b3">B.E.</td>
+<td width="110" class="s1 b3">17-Feb-14</td>
+<td width="572" class="s1 b3">Core java,Struts 2.0,JSP,Servlets,Ajax,Hibernate,Javascript,Jquery,XML,HTML,CSS,MySql,DHTMLX,JExcel,SVN</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">akashdeep.hk@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9620588108</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Amit Kumar Alock</td>
+<td width="98" class="s1 b3">1-Mar-83</td>
+<td width="274" class="s1 b3">B.E.</td>
+<td width="110" class="s1 b3">18-Feb-11</td>
+<td width="572" class="s1 b3">Java, Oracle 10g, Jboss, XML, Jboss, Actions Script</td>
+<td width="313" class="s1 b3">Siemens Certified Clinical workflow 
+and Quality Management Systems</td>
+<td width="220" class="s1 b3">amit.kumar@iqss.co.in</td>
+<td width="93" class="s1 b3">B+ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9632800771</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Amit Kumar</td>
+<td width="98" class="s1 b3">3-Jan-87</td>
+<td width="274" class="s1 b3">B.E.</td>
+<td width="110" class="s1 b3">4-Feb-13</td>
+<td width="572" class="s1 b3">PHP,HTML,CSS</td>
+<td width="313" class="s1 b3"> -</td>
+<td width="220" class="s1 b3">amit.kumar1@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9916329610</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Anish Kumar C.K.</td>
+<td width="98" class="s1 b3">9-Feb-85</td>
+<td width="274" class="s1 b3">MCA</td>
+<td width="110" class="s1 b3">11-Mar-11</td>
+<td width="572" class="s1 b3">ASP.Net, C#, .Net, SQL Server,
+AJAX Control Toolkit</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">anish.kumar@iqss.co.in</td>
+<td width="93" class="s1 b3">A+ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9535106567</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Ashok Kumar K.</td>
+<td width="98" class="s1 b3">20-May-74</td>
+<td width="274" class="s1 b3">MCA</td>
+<td width="110" class="s1 b3">11-Apr-11</td>
+<td width="572" class="s1 b3">Java/J2EE</td>
+<td width="313" class="s1 b3">Sun Certification</td>
+<td width="220" class="s1 b3">ashok.kumar@iqss.co.in</td>
+<td width="93" class="s1 b3">A+</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">12-Sep-05</td>
+<td width="191" class="s1 b3">9845885227</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Bandari Jyothi Mercyda</td>
+<td width="98" class="s1 b3">23-08-1976</td>
+<td width="274" class="s1 b3">B.E</td>
+<td width="110" class="s1 b3">10-Mar-2014</td>
+<td width="572" class="s1 b3">Manual Testing</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">jyothi.bandari@iqss.co.in</td>
+<td width="93" class="s1 b3">B+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">19-06-2008</td>
+<td width="191" class="s1 b3">9663852597</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Bharath Reddy Madireddy</td>
+<td width="98" class="s1 b3">31-08-1990</td>
+<td width="274" class="s1 b3">B.tech</td>
+<td width="110" class="s1 b3">3-Mar-14</td>
+<td width="572" class="s1 b3">C#,ASP.NET & SQL SERVER</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">bharath.reddy@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">-</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9848967694</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Bhaskar Srinivasulu</td>
+<td width="98" class="s1 b3">12-Dec-80</td>
+<td width="274" class="s1 b3">M.Sc Computer Science</td>
+<td width="110" class="s1 b3">19-Mar-12</td>
+<td width="572" class="s1 b3">Manual Testing, Qualtiy Center, Test Director, SQL Queries, VB Script, QTP, C, C++</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">bhaskar.srinivasulu@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">12-Nov-10</td>
+<td width="191" class="s1 b3">9886347657</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Bhumika Sahay</td>
+<td width="98" class="s1 b3">20-Aug-81</td>
+<td width="274" class="s1 b3">MBA</td>
+<td width="110" class="s1 b3">23-Jan-12</td>
+<td width="572" class="s1 b3">-</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">bhumika.sahay@iqss.co.in</td>
+<td width="93" class="s1 b3">B+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">6-Jun-10</td>
+<td width="191" class="s1 b3">99886748417</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Bini Varghese</td>
+<td width="98" class="s1 b3">29-05-1979</td>
+<td width="274" class="s1 b3">Diploma in Civil Engineering</td>
+<td width="110" class="s1 b3">11-Jul-12</td>
+<td width="572" class="s1 b3">Asp.net, C#.net, SQL Server</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">bini.varghese@iqss.co.in</td>
+<td width="93" class="s1 b3">A+</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">31-Dec-09</td>
+<td width="191" class="s1 b3">7259514259</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Boggarapu Bhupal Setti&nbsp;</td>
+<td width="98" class="s1 b3">1-Jul-85</td>
+<td width="274" class="s1 b3">MCA</td>
+<td width="110" class="s1 b3">6-Jun-11</td>
+<td width="572" class="s1 b3">.Net</td>
+<td width="313" class="s1 b3">70-515CSHARP</td>
+<td width="220" class="s1 b3">bhupal.setti@iqss.co.in</td>
+<td width="93" class="s1 b3">O +ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9972701261</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Deshna Swapnam</td>
+<td width="98" class="s1 b3">17-Nov-1985</td>
+<td width="274" class="s1 b3">Btech(CSE)</td>
+<td width="110" class="s1 b3">12-Mar-14</td>
+<td width="572" class="s1 b3">c#.net,sql server2005 &&2008,Telrik Controls</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">deshna.s@iqss.co.in</td>
+<td width="93" class="s1 b3">B+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">12-Mar-2012</td>
+<td width="191" class="s1 b3">9916126600</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Naga Venkata Chandra Kala Kambhampati</td>
+<td width="98" class="s1 b3">8-Apr-1987</td>
+<td width="274" class="s1 b3">MCA</td>
+<td width="110" class="s1 b3">18-Nov-2013</td>
+<td width="572" class="s1 b3">Java</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">chandrakala.knv@iqss.co.in</td>
+<td width="93" class="s1 b3">O +ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9738089357</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Chinmai Sutar</td>
+<td width="98" class="s1 b3">30-May-82</td>
+<td width="274" class="s1 b3">B.E. (Computer Sc. & Eng)</td>
+<td width="110" class="s1 b3">7-Mar-11</td>
+<td width="572" class="s1 b3">C#, ASP.Net, SQL Server 2005, AJAX, Java Script, XML</td>
+<td width="313" class="s1 b3">Microsoft Certified Technology Specialist
+(Microsoft Office SharePoint Server 2007
+ Application Development)</td>
+<td width="220" class="s1 b3">chinmai.sutar@iqss.co.in</td>
+<td width="93" class="s1 b3">B+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">2-Dec-05</td>
+<td width="191" class="s1 b3">9916102801</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">S. David Lall</td>
+<td width="98" class="s1 b3">13-May-1982</td>
+<td width="274" class="s1 b3">Btech/MBA</td>
+<td width="110" class="s1 b3">29-Jul-2013</td>
+<td width="572" class="s1 b3">Java/J2me/J2se/J2ee</td>
+<td width="313" class="s1 b3">SCJP</td>
+<td width="220" class="s1 b3">david.lall@iqss.co.in</td>
+<td width="93" class="s1 b3">B+</td>
+<td width="105" class="s1 b3">-</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9008095748</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Deepika B R</td>
+<td width="98" class="s1 b3">3-Feb-88</td>
+<td width="274" class="s1 b3">B.E</td>
+<td width="110" class="s1 b3">2-12-2013</td>
+<td width="572" class="s1 b3">Manual and automation testing</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">deepika.br@iqss.co.in</td>
+<td width="93" class="s1 b3">A+ve</td>
+<td width="105" class="s1 b3">-</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9844606898</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Deepika Reddy</td>
+<td width="98" class="s1 b3">10-Jul-84</td>
+<td width="274" class="s1 b3">B.Tech</td>
+<td width="110" class="s1 b3">25-Jul-11</td>
+<td width="572" class="s1 b3">-</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">deepika.reddy@iqss.co.in</td>
+<td width="93" class="s1 b3">A+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">15-Feb-08</td>
+<td width="191" class="s1 b3">9663334924</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Dhruva Kumar</td>
+<td width="98" class="s1 b3">3-Mar-83</td>
+<td width="274" class="s1 b3">MCA</td>
+<td width="110" class="s1 b3">19-May-11</td>
+<td width="572" class="s1 b3">Java/J2EE</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">dhruva.kumar@iqss.co.in</td>
+<td width="93" class="s1 b3">B+ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">8105237499</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Hamsaveni D.</td>
+<td width="98" class="s1 b3">19-Dec-86</td>
+<td width="274" class="s1 b3">Diploma in Electronics and Communication</td>
+<td width="110" class="s1 b3">25-Jul-11</td>
+<td width="572" class="s1 b3">-</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">hamsaveni.d@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve&nbsp;</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9740783903</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Hemla Shetty</td>
+<td width="98" class="s1 b3">9-Oct-85</td>
+<td width="274" class="s1 b3">MBA</td>
+<td width="110" class="s1 b3">3-Dec-12</td>
+<td width="572" class="s1 b3">Project Process Skills, Siebel, SQL, Oracle, HTML, ASP, XML, Escripting, C, C++ , Java</td>
+<td width="313" class="s1 b3">PMP</td>
+<td width="220" class="s1 b3">hemla.shetty@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve&nbsp;</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9880532828</td>
+</tr>
+<tr height="21">
+<td width="171" class="s2 b2">Jacob Mathew K.</td>
+<td width="98" class="s1 b3">11-Sep-75</td>
+<td width="274" class="s1 b3">B.Tech (Mechanical)</td>
+<td width="110" class="s1 b3">29-Dec-05</td>
+<td width="572" class="s1 b3">C#, VB.Net, ASP.Net, SQL Server</td>
+<td width="313" class="s1 b3">MCP</td>
+<td width="220" class="s1 b3">jacob.mathew@iqss.co.in</td>
+<td width="93" class="s1 b3">A+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">21-Feb-11</td>
+<td width="191" class="s1 b3">9886537634</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Jayaraj C.</td>
+<td width="98" class="s1 b3">17-May-87</td>
+<td width="274" class="s1 b3">M.Sc. CS</td>
+<td width="110" class="s1 b3">27-Sep-10</td>
+<td width="572" class="s1 b3">Core Java, Grails & Groovy, HTML, jQuery & JavaScript
+SQL, Tomcat 7.0.1
+
+</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">jayaraj.c@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9632896726</td>
+</tr>
+<tr height="21">
+<td width="171" class="s2 b2">Jinu Mavunkal Thomas</td>
+<td width="98" class="s1 b3">10-Apr-72</td>
+<td width="274" class="s1 b3">B.Sc. PGDCA</td>
+<td width="110" class="s1 b3">19-Aug-06</td>
+<td width="572" class="s1 b3">VB 6.0, .Net, Pascal, Basic, 
+ForTran, C, COBOL, SQL Server</td>
+<td width="313" class="s1 b3">MCP</td>
+<td width="220" class="s1 b3">jinu.thomas@iqss.co.in</td>
+<td width="93" class="s1 b3">A-ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">31-Dec-06</td>
+<td width="191" class="s1 b3">9980902670</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Jithendran P. K.</td>
+<td width="98" class="s1 b3">20-May-81</td>
+<td width="274" class="s1 b3">M.Sc. (Comp)</td>
+<td width="110" class="s1 b3">07-Jul-06</td>
+<td width="572" class="s1 b3">ASP, ASP.Net, VB, VB.Net, Java, JSP,
+SQL Server 2000, MS Access, 
+Oracle, MYSQL, POSTGRESQL</td>
+<td width="313" class="s1 b3">MCP</td>
+<td width="220" class="s1 b3">jithendran.pk@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">24-Apr-10</td>
+<td width="191" class="s1 b3">9964922221</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Kamala S Tallur</td>
+<td width="98" class="s1 b3">11-Feb-1986</td>
+<td width="274" class="s1 b3">B.E</td>
+<td width="110" class="s1 b3">3-Feb-2014</td>
+<td width="572" class="s1 b3">Manual Testing</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">kamala.tallur@iqss.co.in</td>
+<td width="93" class="s1 b3">A+</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">8123152029</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Kiran T.</td>
+<td width="98" class="s1 b3">15-Apr-82</td>
+<td width="274" class="s1 b3">MCA</td>
+<td width="110" class="s1 b3">11-Mar-11</td>
+<td width="572" class="s1 b3">C#, SQL Server,Winforms ASP.Net</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">kiran.t@iqss.co.in</td>
+<td width="93" class="s1 b3">O +ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9986065636</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Krishna Devan</td>
+<td width="98" class="s1 b3">26-Jul-79</td>
+<td width="274" class="s1 b3">MCA</td>
+<td width="110" class="s1 b3">01-Apr-04</td>
+<td width="572" class="s1 b3">Java, PHP</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">krishna.devan@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">27-Mar-06</td>
+<td width="191" class="s1 b3">9886153157</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Laleetha M Balkrishna</td>
+<td width="98" class="s1 b3">28-Jul-1986</td>
+<td width="274" class="s1 b3">MCA</td>
+<td width="110" class="s1 b3">16-Dec-2013</td>
+<td width="572" class="s1 b3">C# .net, ASP .net, SQL Server, MYSQL, Javascript, Jquery, crystal report, Microsoft Dynamics Navision
+</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">-</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9742714390</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Lenin Raju</td>
+<td width="98" class="s1 b3">13-Jun-82</td>
+<td width="274" class="s1 b3">MCA</td>
+<td width="110" class="s1 b3">12-Oct-11</td>
+<td width="572" class="s1 b3">Classic ASP, ASP.Net, SQL Server 2005</td>
+<td width="313" class="s1 b3">MCTS&nbsp;</td>
+<td width="220" class="s1 b3">lenin.raju@iqss.co.in</td>
+<td width="93" class="s1 b3">A1 +ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">8884690509</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Madhvi Yadav</td>
+<td width="98" class="s1 b3">31-Oct-83</td>
+<td width="274" class="s1 b3">MCA</td>
+<td width="110" class="s1 b3">3-Dec-12</td>
+<td width="572" class="s1 b3">Manual Testing, Mainframe Testing, Web Based Testing, Window Based Testing</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">madhvi.yadav@iqss.co.in</td>
+<td width="93" class="s1 b3">AB+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">21-Nov-11</td>
+<td width="191" class="s1 b3">8880255959</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Manikandan Gopal</td>
+<td width="98" class="s1 b3">29-Jul-86</td>
+<td width="274" class="s1 b3">BCA</td>
+<td width="110" class="s1 b3">7-May-13</td>
+<td width="572" class="s1 b3">.Net, SQL Server</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">manikandan.gopal@iqss.co.in</td>
+<td width="93" class="s1 b3">B+ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">8951220323</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Mariyat Smintu Kurain</td>
+<td width="98" class="s1 b3">16-07-84</td>
+<td width="274" class="s1 b3">MBA (HR)</td>
+<td width="110" class="s1 b3">19-Sep-11</td>
+<td width="572" class="s1 b3">-</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">mariyat.kurian@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9886119204</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Mohana Priya</td>
+<td width="98" class="s1 b3">27-Mar-83</td>
+<td width="274" class="s1 b3">B.C.A.</td>
+<td width="110" class="s1 b3">2-May-12</td>
+<td width="572" class="s1 b3">Manual testing , QC, VB6</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">mohana.priya@iqss.co.in</td>
+<td width="93" class="s1 b3">AB+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">19-May-10</td>
+<td width="191" class="s1 b3">9916741511</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Muthukrishnan M.</td>
+<td width="98" class="s1 b3">10-Jan-78</td>
+<td width="274" class="s1 b3">M.Sc. (C.T.)</td>
+<td width="110" class="s1 b3">27-Aug-06</td>
+<td width="572" class="s1 b3">Java , J2ee, Struts, JSP, Oracle, eFP2.4, MS SQL, Jasper Report, Flex, HiberNet, Spring</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">muthukrishnan.m@iqss.co.in</td>
+<td width="93" class="s1 b3">B+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">23-Aug-07</td>
+<td width="191" class="s1 b3">9886945343</td>
+</tr>
+<tr height="21">
+<td width="171" class="s2 b2">Naijel T. S.</td>
+<td width="98" class="s1 b3">23-Sep-80</td>
+<td width="274" class="s1 b3">MCA</td>
+<td width="110" class="s1 b3">01-Apr-06</td>
+<td width="572" class="s1 b3">&nbsp;C#, VB.Net, ASP.Net, SQL Server 2005</td>
+<td width="313" class="s1 b3">MCP</td>
+<td width="220" class="s1 b3">naijel.ts@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">20-Sep-09</td>
+<td width="191" class="s1 b3">9901003180</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Padmaja S</td>
+<td width="98" class="s1 b3">7-Apr-86</td>
+<td width="274" class="s1 b3">B.E.</td>
+<td width="110" class="s1 b3">1-Jan-13</td>
+<td width="572" class="s1 b3">Automation Tool</td>
+<td width="313" class="s1 b3">ISTQB Foundation Level</td>
+<td width="220" class="s1 b3">padmaja.s@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">6-Feb-11</td>
+<td width="191" class="s1 b3">9538591517</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Pavithra Thavamani</td>
+<td width="98"  class="s1 b3">28-02-1984</td>
+<td width="274" class="s1 b3">B.E.</td>
+<td width="110" class="s1 b3">1-Jul-13</td>
+<td width="572" class="s1 b3">ASP.net, ASP MSSQL</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">pavithra.t@iqss.co.in</td>
+<td width="93"  class="s1 b3">A+</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">24-june</td>
+<td width="191" class="s1 b3">9620098885</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">POORNIMA JEEVARATHNA</td>
+<td width="98"  class="s1 b3">24-11-1989</td>
+<td width="274" class="s1 b3">B.E.</td>
+<td width="110" class="s1 b3">5-Mar-2014</td>
+<td width="572" class="s1 b3">MANUAL AND AUTOMATION TESTING,JAVA,C,MICROSOFT SERVER</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">Poornima.jeevarathna@iqss.co.in</td>
+<td width="93"  class="s1 b3">A+</td>
+<td width="105" class="s1 b3">-</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">8431080413/8088760896</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Pradeep K. N.</td>
+<td width="98" class="s1 b3">27-May-77</td>
+<td width="274" class="s1 b3">B.E. (Electronics)</td>
+<td width="110" class="s1 b3">01-Sep-2003</td>
+<td width="572" class="s1 b3">VB, ASP, .Net, SQL, XML, C#, HTML, JavaScript, Webservices, AJAX</td>
+<td width="313" class="s1 b3">MCP</td>
+<td width="220" class="s1 b3">pradeep.kn@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">25-Dec-05</td>
+<td width="191" class="s1 b3">9448845733</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Praveen Gangadhar Shet</td>
+<td width="98" class="s1 b3">4-Dec-1989</td>
+<td width="274" class="s1 b3">B.E(Computer Science)</td>
+<td width="110" class="s1 b3">3-Mar-2014</td>
+<td width="572" class="s1 b3">J2EE, Struts, Mysql, MVC,css</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">praveeen.shet@iqss.co.in</td>
+<td width="93" class="s1 b3">A+</td>
+<td width="105" class="s1 b3">-</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">8971172744</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Punam Bhagat</td>
+<td width="98" class="s1 b3">25-May-85</td>
+<td width="274" class="s1 b3">MCA</td>
+<td width="110" class="s1 b3">19-Feb-13</td>
+<td width="572" class="s1 b3">Asp.Net, C#, SQL, Javascript, Ajax,VB.Net</td>
+<td width="313" class="s1 b3">.Net Courses</td>
+<td width="220" class="s1 b3">punam.bhagat@iqss.co.in</td>
+<td width="93" class="s1 b3">AB+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">9-Jul-08</td>
+<td width="191" class="s1 b3">9008352345</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">RajaRaman Sahasranaman</td>
+<td width="98" class="s1 b3">18-Jan-73</td>
+<td width="274" class="s1 b3">MCA</td>
+<td width="110" class="s1 b3">1-Apr-11</td>
+<td width="572" class="s1 b3">ASP.Net, C#, SQL Server, ASP</td>
+<td width="313" class="s1 b3">70-433: MS_SQL_Server_2008_Database_Development</td>
+<td width="220" class="s1 b3">raja.raman@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">8-Feb-06</td>
+<td width="191" class="s1 b3">9886787395</td>
+</tr>
+<tr height="21">
+<td width="171" class="s2 b2">Rajesh Kelappan</td>
+<td width="98" class="s1 b3">10-May-72</td>
+<td width="274" class="s1 b3">&nbsp;</td>
+<td width="110" class="s1 b3">01-Jun-03</td>
+<td width="572" class="s1 b3">&nbsp;</td>
+<td width="313" class="s1 b3">&nbsp;</td>
+<td width="220" class="s1 b3">rajesh.kelappan@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">08-Feb-02</td>
+<td width="191" class="s1 b3">9845067976</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Rajesh Ramachandran</td>
+<td width="98" class="s1 b3">15-Nov-72</td>
+<td width="274" class="s1 b3">B.Tech</td>
+<td width="110" class="s1 b3">01-Jun-03</td>
+<td width="572" class="s1 b3">ASP, ASP.Net, C#, VB, VB.Net, Java Script, 
+SQL Server, HTML, XML, Webservices</td>
+<td width="313" class="s1 b3">MCP</td>
+<td width="220" class="s1 b3">rajesh.ramachandran@iqss.co.in</td>
+<td width="93" class="s1 b3">A+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">22-Aug-04</td>
+<td width="191" class="s1 b3">9845054652</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Rajiv Kumar</td>
+<td width="98" class="s1 b3">28-Nov-81</td>
+<td width="274" class="s1 b3">B.Sc.</td>
+<td width="110" class="s1 b3">1-Jul-11</td>
+<td width="572" class="s1 b3">Win 2000, XP, Photoshop, Database Validation, Data Validation, Inventory Management, PL/SQL Query Building Knowledge, Unix.</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">rajiv.kumar@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">16-Jan-06</td>
+<td width="191" class="s1 b3">9880442962</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Rajitha S Shetty</td>
+<td width="98" class="s1 b3">2-Jul-88</td>
+<td width="274" class="s1 b3">MBA (HR)</td>
+<td width="110" class="s1 b3">6-May-13</td>
+<td width="572" class="s1 b3">-</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">rajitha.shetty@iqss.co.in</td>
+<td width="93" class="s1 b3">B+ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9844615286</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Ramesh Kumar</td>
+<td width="98" class="s1 b3">15-Dec-76</td>
+<td width="274" class="s1 b3">B.E. (Mechanical)</td>
+<td width="110" class="s1 b3">7-Nov-07</td>
+<td width="572" class="s1 b3">Java , Swings, JSP, JSF, IceFaces, AJAX, Grails, Groovy, JBPM</td>
+<td width="313" class="s1 b3">&nbsp;</td>
+<td width="220" class="s1 b3">ramesh.kumar@iqss.co.in</td>
+<td width="93" class="s1 b3">B-ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">12-Dec-99</td>
+<td width="191" class="s1 b3">9845651225</td>
+</tr>
+<tr height="21">
+<td width="171" class="s2 b2">Ravikumar Varadharajan</td>
+<td width="98" class="s1 b3">16-Jun-84</td>
+<td width="274" class="s1 b3">MCA</td>
+<td width="110" class="s1 b3">9-Nov-11</td>
+<td width="572" class="s1 b3">ASP.Net, C#, .Net, SQL Server, HTML,
+ JavaScript, XML, AJAX, Photoshop</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">ravikumar.v@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9019471665</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Rohan M. Kanagil</td>
+<td width="98" class="s1 b3">22-05-1984</td>
+<td width="274" class="s1 b3">B.E. (Comp. Science) / MBA</td>
+<td width="110" class="s1 b3">05-Aug-09</td>
+<td width="572" class="s1 b3">Presales / Sales</td>
+<td width="313" class="s1 b3">&nbsp;</td>
+<td width="220" class="s1 b3">rohan.kanagil@iqss.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">3-Jul-10</td>
+<td width="191" class="s1 b3">9611895365</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Sandeep John</td>
+<td width="98" class="s1 b3">26-May-80</td>
+<td width="274" class="s1 b3">M.Sc (IT)</td>
+<td width="110" class="s1 b3">10-Dec-07</td>
+<td width="572" class="s1 b3">ASP.Net, C#, .Net, VB.Net, SQL Server 2005,
+ Java Script, Jquery, HTML, XML</td>
+<td width="313" class="s1 b3">&nbsp;</td>
+<td width="220" class="s1 b3">sandeep.john@iqss.co.in</td>
+<td width="93" class="s1 b3">B+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">3-Nov-08</td>
+<td width="191" class="s1 b3">9739146362</td>
+</tr>
+<tr height="21">
+<td width="171" class="s2 b2">Santhosh Kumar V. K.</td>
+<td width="98" class="s1 b3">15-May-76</td>
+<td width="274" class="s1 b3">Diploma</td>
+<td width="110" class="s1 b3">7-May-08</td>
+<td width="572" class="s1 b3">VB, ASP, ASP.Net, SQL Server</td>
+<td width="313" class="s1 b3">MCTS - 70-443</td>
+<td width="220" class="s1 b3">santhosh.kumar@iqss.co.in</td>
+<td width="93" class="s1 b3">AB+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">6-Nov-05</td>
+<td width="191" class="s1 b3">9845153143</td>
+</tr>
+<tr height="21">
+<td width="171" class="s2 b2">Sayad Basheed Abdal</td>
+<td width="98" class="s1 b3">1-Jun-86</td>
+<td width="274" class="s1 b3">MCA</td>
+<td width="110" class="s1 b3">20-Mar-13</td>
+<td width="572" class="s1 b3">C#.Net, Asp.Net, SQL Server</td>
+<td width="313" class="s1 b3"> </td>
+<td width="220" class="s1 b3">sayad.basheed@iqss.co.in</td>
+<td width="93" class="s1 b3"></td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3"></td>
+<td width="191" class="s1 b3">9036120242
+</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Shaik Imran</td>
+<td width="98" class="s1 b3">26-Nov-85</td>
+<td width="274" class="s1 b3">B.Tech</td>
+<td width="110" class="s1 b3">21-Dec-11</td>
+<td width="572" class="s1 b3">HTML, SQL, SQL Server</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">imran.shaik@iqss.co.in</td>
+<td width="93" class="s1 b3">B+ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9620944203</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Shilpa Bobade</td>
+<td width="98" class="s1 b3">7-Jun-78</td>
+<td width="274" class="s1 b3">MCA</td>
+<td width="110" class="s1 b3">6-Jun-11</td>
+<td width="572" class="s1 b3">.Net</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">shilpa.bobade@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">25-Dec-09</td>
+<td width="191" class="s1 b3">8867709559</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">S Siva Kumar</td>
+<td width="98" class="s1 b3">9-Dec-85</td>
+<td width="274" class="s1 b3">B-Tech</td>
+<td width="110" class="s1 b3">1-Oct-13</td>
+<td width="572" class="s1 b3">MS.DotNet / Sql Server</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">siva.kumar@iqss.co.in</td>
+<td width="93" class="s1 b3">A+ve</td>
+<td width="105" class="s1 b3">-</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">8792515235</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Shruthi K.M.</td>
+<td width="98" class="s1 b3">10-Apr-87</td>
+<td width="274" class="s1 b3">Diploma</td>
+<td width="110" class="s1 b3">1-Feb-12</td>
+<td width="572" class="s1 b3">-</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">shruthi.km@iqss.co.in</td>
+<td width="93" class="s1 b3">B+ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9060856640</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Sonali Rout</td>
+<td width="98" class="s1 b3">03-Apr-84</td>
+<td width="274" class="s1 b3">B.Tech</td>
+<td width="110" class="s1 b3">10-Jan-13</td>
+<td width="572" class="s1 b3">Manual Testing, SQL</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">sonalirout@iqss.co.in</td>
+<td width="93" class="s1 b3">B+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">29-Jan-2012</td>
+<td width="191" class="s1 b3">9886412827</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">SRIHARSHA CHIKKADEVANNA</td>
+<td width="98" class="s1 b3">6-Feb-85</td>
+<td width="274" class="s1 b3">B.E</td>
+<td width="110" class="s1 b3">11-Nov-2013</td>
+<td width="572" class="s1 b3">Manual Testing</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">sriharsha.c@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">-</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9538133205</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Subash Balakrishnan</td>
+<td width="98" class="s1 b3">15-Aug-80</td>
+<td width="274" class="s1 b3">MCA</td>
+<td width="110" class="s1 b3">15-Oct-07</td>
+<td width="572" class="s1 b3">PHP, MYSQL, HTML, CSS, AJAX, JQUERY, JAVA, JSP, SERVLETS, GROOVY, GRAILS</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">subash.b@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9845440659</td>
+</tr>
+<tr height="21">
+<td width="171" class="s2 b2">Surabhi Parameshwar</td>
+<td width="98" class="s1 b3">22-Aug-81</td>
+<td width="274" class="s1 b3">B.E. (Computer Science)</td>
+<td width="110" class="s1 b3">26-Mar-08</td>
+<td width="572" class="s1 b3">C, ESQLC, Java on Unix, Encina, TCL, HTML, JS</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">surabhi.parameshwar@iqss.co.in</td>
+<td width="93" class="s1 b3">B-ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9739436749</td>
+</tr>
+<tr height="21">
+<td width="171" class="s2 b2">Suvarna Krishnan</td>
+<td width="98" class="s1 b3">22-Aug-82</td>
+<td width="274" class="s1 b3">BIT, Post Diploma in Software Engineering</td>
+<td width="110" class="s1 b3">12-Jan-11</td>
+<td width="572" class="s1 b3">JAVA/J2EE</td>
+<td width="313" class="s1 b3">&nbsp;</td>
+<td width="220" class="s1 b3">suvarna.krishnan@iqss.co.in</td>
+<td width="93" class="s1 b3">B+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">20-Jan-08</td>
+<td width="191" class="s1 b3">9880761620</td>
+</tr>
+<tr height="21">
+<td width="171" class="s2 b2">Swetha S.</td>
+<td width="98" class="s1 b3">21-Aug-84</td>
+<td width="274" class="s1 b3">BCA / PGDHRM / Pursuing MCA</td>
+<td width="110" class="s1 b3">26-Jul-10</td>
+<td width="572" class="s1 b3">C, C++, QTP, TD,Winrunner,</td>
+<td width="313" class="s1 b3">Software Testing</td>
+<td width="220" class="s1 b3">swetha.harsha@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">11-Feb-08</td>
+<td width="191" class="s1 b3">9916266852</td>
+</tr>
+<tr height="21">
+<td width="171" class="s2 b2">Umamageswari S.</td>
+<td width="98" class="s1 b3">17-Jul-87</td>
+<td width="274" class="s1 b3">B.E.</td>
+<td width="110" class="s1 b3">28-Nov-11</td>
+<td width="572" class="s1 b3">Java, JSP, Java Script</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">umamageswari.s@iqss.co.in</td>
+<td width="93" class="s1 b3">AB+ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">9740520810</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">V. Sobha Ramani</td>
+<td width="98" class="s1 b3">26-May-84</td>
+<td width="274" class="s1 b3">B.E.</td>
+<td width="110" class="s1 b3">15-Feb-11</td>
+<td width="572" class="s1 b3">ASP.Net, C#, VB.Net, SQL Server</td>
+<td width="313" class="s1 b3">SCJP</td>
+<td width="220" class="s1 b3">sobha.v@iqss.co.in</td>
+<td width="93" class="s1 b3">O+ve</td>
+<td width="105" class="s1 b3">Married</td>
+<td width="193" class="s1 b3">4-Jun-09</td>
+<td width="191" class="s1 b3">9986915170</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Vinod Bhavihal</td>
+<td width="98" class="s1 b3">7-Aug-1989</td>
+<td width="274" class="s1 b3">BE</td>
+<td width="110" class="s1 b3">25-Jul-2013</td>
+<td width="572" class="s1 b3">Java/J2ee,Swings,JSF1.2,2.0, MSSQL-2005,mysql</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">vinod.bhavihal@iqss.co.in</td>
+<td width="93" class="s1 b3">O+</td>
+<td width="105" class="s1 b3">-</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">8970670693</td>
+</tr>
+<tr height="21">
+<td width="171" class="s1 b2">Vipul AshokRao Gulhane</td>
+<td width="98" class="s1 b3">15-Jan-87</td>
+<td width="274" class="s1 b3">MCA</td>
+<td width="110" class="s1 b3">25-Jul-11</td>
+<td width="572" class="s1 b3">Java, JSP, Servlet, MYSQL</td>
+<td width="313" class="s1 b3">-</td>
+<td width="220" class="s1 b3">vipul.gulhane@iqss.co.in</td>
+<td width="93" class="s1 b3">B+ve</td>
+<td width="105" class="s1 b3">Single</td>
+<td width="193" class="s1 b3">-</td>
+<td width="191" class="s1 b3">7829788308</td>
+</tr>
+
+</table>
+</body>
+</html>

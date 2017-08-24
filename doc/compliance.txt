@@ -1,0 +1,47 @@
+Company Changes:
+----------------
+1. Add a new field viewOurCompliacne
+
+2. Scripts to create new field
+
+    ALTER TABLE company ADD column view_our_compliance BIT(1) NOT NULL DEFAULT FALSE;
+
+3. Modified Company Controller's getCompanyDets and saveCompany actions
+
+4. Modified company.js 
+
+5. Modified _company.gsp to add a new checkbox field.
+
+6. view our compliance will visible to the company user, if the company has entity permission to create compliance.
+
+
+
+Domain Changes:
+---------------
+1. Add two new fields 'crId' & 'isCr'
+
+2. Scripts to create new fields
+
+   ALTER TABLE compliance ADD COLUMN cr_id BIGINT(20); 
+   ALTER TABLE compliance ADD COLUMN is_cr BIT(1) NOT NULL DEFAULT FALSE;
+   
+	
+3. Add constraint crId(nullable:true);
+
+4. Add Entity Permission
+    1. Feature -> COMPLIANCE_CREATION
+    2. Entity-level -> Company
+	3. Available - > Checked (true)
+	
+5. Add "company.owned.record.identifier = OWN" in db_configs.
+	
+6. Modified getComplianceId() function to add 'OWN-' prefix to compliance id
+
+7. Modified save action, to save company owned compliance with 'APPROVED' status.
+
+8. List company compliance only for company users.
+
+    1. check if visible for lex user.
+    2. check role level
+    3. compare the current tenant and cr tenant.
+

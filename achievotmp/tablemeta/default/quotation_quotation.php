@@ -1,0 +1,235 @@
+<?php
+$tablemeta = array (
+  'id' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'id',
+    'type' => 3,
+    'gentype' => 'number',
+    'len' => 10,
+    'flags' => 5,
+    'num' => 0,
+  ),
+  'quotation_nr' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'quotation_nr',
+    'type' => 253,
+    'gentype' => 'string',
+    'len' => 30,
+    'flags' => 4,
+    'num' => 1,
+  ),
+  'organization_id' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'organization_id',
+    'type' => 3,
+    'gentype' => 'number',
+    'len' => 10,
+    'flags' => 4,
+    'num' => 2,
+  ),
+  'contact' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'contact',
+    'type' => 253,
+    'gentype' => 'string',
+    'len' => 150,
+    'flags' => 4,
+    'num' => 3,
+  ),
+  'method' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'method',
+    'type' => 253,
+    'gentype' => 'string',
+    'len' => 15,
+    'flags' => 0,
+    'num' => 4,
+  ),
+  'title' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'title',
+    'type' => 253,
+    'gentype' => 'string',
+    'len' => 300,
+    'flags' => 4,
+    'num' => 5,
+  ),
+  'description' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'description',
+    'type' => 252,
+    'gentype' => 'text',
+    'len' => 196605,
+    'flags' => 0,
+    'num' => 6,
+  ),
+  'issue_date' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'issue_date',
+    'type' => 10,
+    'gentype' => 'date',
+    'len' => 10,
+    'flags' => 4,
+    'num' => 7,
+  ),
+  'expire_date' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'expire_date',
+    'type' => 10,
+    'gentype' => 'date',
+    'len' => 10,
+    'flags' => 0,
+    'num' => 8,
+  ),
+  'status' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'status',
+    'type' => 253,
+    'gentype' => 'string',
+    'len' => 48,
+    'flags' => 0,
+    'num' => 9,
+  ),
+  'assigned_to' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'assigned_to',
+    'type' => 3,
+    'gentype' => 'number',
+    'len' => 10,
+    'flags' => 4,
+    'num' => 10,
+  ),
+  'price' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'price',
+    'type' => 246,
+    'gentype' => 'decimal',
+    'len' => '14,2',
+    'flags' => 4,
+    'num' => 11,
+  ),
+  'payment_id' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'payment_id',
+    'type' => 3,
+    'gentype' => 'number',
+    'len' => 10,
+    'flags' => 0,
+    'num' => 12,
+  ),
+  'success_chance' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'success_chance',
+    'type' => 3,
+    'gentype' => 'number',
+    'len' => 3,
+    'flags' => 0,
+    'num' => 13,
+  ),
+  'profit_expectance' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'profit_expectance',
+    'type' => 246,
+    'gentype' => 'decimal',
+    'len' => '11,2',
+    'flags' => 0,
+    'num' => 14,
+  ),
+  'campaign' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'campaign',
+    'type' => 3,
+    'gentype' => 'number',
+    'len' => 10,
+    'flags' => 0,
+    'num' => 15,
+  ),
+  'source' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'source',
+    'type' => 3,
+    'gentype' => 'number',
+    'len' => 10,
+    'flags' => 0,
+    'num' => 16,
+  ),
+  'created_by' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'created_by',
+    'type' => 3,
+    'gentype' => 'number',
+    'len' => 10,
+    'flags' => 0,
+    'num' => 17,
+  ),
+  'created_on' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'created_on',
+    'type' => 12,
+    'gentype' => 'datetime',
+    'len' => 19,
+    'flags' => 0,
+    'num' => 18,
+  ),
+  'last_modified_by' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'last_modified_by',
+    'type' => 3,
+    'gentype' => 'number',
+    'len' => 10,
+    'flags' => 0,
+    'num' => 19,
+  ),
+  'last_modified_on' => 
+  array (
+    'table' => 'quotation_quotation',
+    'table_type' => 'MyISAM',
+    'name' => 'last_modified_on',
+    'type' => 12,
+    'gentype' => 'datetime',
+    'len' => 19,
+    'flags' => 0,
+    'num' => 20,
+  ),
+)
+?>

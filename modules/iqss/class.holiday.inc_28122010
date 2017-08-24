@@ -1,0 +1,51 @@
+<?php
+
+class holiday extends atkNode
+{
+  function holiday() 
+  {
+    //$this->atkNode("holiday",NF_NO_SECURITY);
+    $this->atkNode("holiday");
+  }
+  
+  // Page functions
+  function action_view(&$handler)
+  {
+    $ui = &$this->getUi();
+    if (is_object($ui))
+    {
+      $theme = &atkTheme::getInstance();
+      $page = &$this->getPage();
+      $page->register_style($theme->stylePath("style.css"));
+      $page->head(atktext("cicence","setup"));
+      $page->body();
+
+     
+      $box = $ui->renderBox(array("title"=>$this->text($this->m_type) ." - List",
+                                             "content"=>$this->getHolidays()));
+      $actionpage = $this->renderActionPage("view", array($box));
+      $page->addContent($actionpage);
+    }
+    else
+    {
+       atkerror("ui object failure");
+    }
+  }
+  
+  function getHolidays()
+  {
+    $license = file(atkconfig("atkroot")."doc/HOLIDAY");
+    $content="<div align='center'><a href='doc/Holiday List - 2010.pdf'>Download Holiday List</a></div>";
+    for ($i=0;$i<count($license);$i++)
+    {
+      $content.=str_replace("", "", $license[$i]);
+    }
+    
+    
+    
+    return $content;    
+  }
+  
+}
+
+?>
